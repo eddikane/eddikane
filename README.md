@@ -28,12 +28,14 @@ A C# project focused on tracking workout data while practicing classes, objects,
 
 ## Currently Learning
 
-- Full-stack development
-- ASP.NET Core
-- React and TypeScript
 - Cloud development
-- Automated testing
-- CI/CD and Docker
+- Data Structures & Algorithms
+- Algorithm analysis and Big-O notation
+- SQL and relational database design
+- JavaScript and web application development
+- C# fundamentals and object-oriented programming
+- Software testing, debugging, and documentation
+- Building larger software projects from planning through implementation
 
 ## Connect With Me
 
