@@ -11,7 +11,7 @@ I'm a Computer Science student at BYU–Idaho focused on becoming a software eng
 
 ## Featured Projects
 
-### VerseSync
+### [VerseSync](https://github.com/eddikane/VerseSync)
 A collaborative scripture-study web application built with JavaScript, HTML, CSS, Firebase, and Firestore.
 
 - Weekly reading schedules
@@ -20,10 +20,10 @@ A collaborative scripture-study web application built with JavaScript, HTML, CSS
 - Dynamic DOM interactions and forms
 - Git/GitHub version control
 
-### Soccer Performance Tracker
-A C# console application for tracking player statistics, calculating goals-per-game metrics, and classifying performance.
+### [Soccer Performance Tracker](https://github.com/eddikane/soccer-performance-tracker)
+A C# console application for tracking player statistics, evaluating performance, identifying weaknesses, and generating position-specific training recommendations.
 
-### Workout Progress Tracker
+### [Workout Progress Tracker](https://github.com/eddikane/workout-progress-tracker)
 A C# project focused on tracking workout data while practicing classes, objects, lists, methods, file handling, and input validation.
 
 ## Currently Learning
